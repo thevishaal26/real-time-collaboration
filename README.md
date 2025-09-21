@@ -25,7 +25,8 @@ Challenges faced during development included managing real-time synchronization 
 This project demonstrates full-stack web development, real-time collaborative applications, and API integration, making it both practical and visually interactive. Users can experience seamless collaboration with live updates, user presence tracking, and persistent storage.
 
 OUTPUT OF THE TASK
-![Weather App Screenshot](assets/image.png)
+<img width="1897" height="907" alt="image" src="https://github.com/user-attachments/assets/ad7cc472-246b-419d-bcf1-0f63d997a62d" />
+
 
 
 
